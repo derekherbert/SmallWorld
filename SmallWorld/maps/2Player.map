@@ -1,0 +1,28 @@
+{
+    "mapName":"2 Players",
+    "creator": "Small World Original",
+    "regions":
+    [
+        {"id": 1, "border": true, "lostTribe" : true, "regionType": "SWAMP", "regionAttributes":  ["MAGIC"], "adjacentRegions" : [2, 11]},
+        {"id": 2, "border": true, "lostTribe" : false, "regionType": "HILLS", "regionAttributes":  ["CAVERN"], "adjacentRegions" : [1, 11, 10, 3]},
+        {"id": 3, "border": true, "lostTribe" : true, "regionType": "SWAMP", "regionAttributes":  ["MINE"], "adjacentRegions" : [2, 10, 9, 4]},
+        {"id": 4, "border": true, "lostTribe" : false, "regionType": "MOUNTAIN", "regionAttributes":  ["NONE"], "adjacentRegions" : [3, 9, 5]},
+        {"id": 5, "border": true, "lostTribe" : false, "regionType": "SWAMP", "regionAttributes":  ["NONE"], "adjacentRegions" : [4, 9, 8, 6]},
+        {"id": 6, "border": true, "lostTribe" : false, "regionType": "FOREST", "regionAttributes":  ["NONE"], "adjacentRegions" : [5, 8, 7]},
+        {"id": 7, "border": true, "lostTribe" : false, "regionType": "MOUNTAIN", "regionAttributes":  ["MINE"], "adjacentRegions" : [6, 8, 17]},
+        {"id": 8, "border": false, "lostTribe" : true, "regionType": "HILLS", "regionAttributes":  ["CAVERN"], "adjacentRegions" : [9, 15, 16, 17, 7, 6, 5]},
+        {"id": 9, "border": false, "lostTribe" : true, "regionType": "FARMLAND", "regionAttributes":  ["MAGIC"], "adjacentRegions" : [3, 4, 5, 8, 15, 14, 10]},
+        {"id": 10, "border": false, "lostTribe" : true, "regionType": "FOREST", "regionAttributes":  ["NONE"], "adjacentRegions" : [2, 3, 9, 14, 13, 11]},
+        {"id": 11, "border": true, "lostTribe" : true, "regionType": "FARMLAND", "regionAttributes":  ["NONE"], "adjacentRegions" : [1, 2, 10, 13, 12]},
+        {"id": 12, "border": true, "lostTribe" : false, "regionType": "MOUNTAIN", "regionAttributes":  ["MINE", "CAVERN"], "adjacentRegions" : [11, 13, 21]},
+        {"id": 13, "border": false, "lostTribe" : true, "regionType": "HILLS", "regionAttributes":  ["NONE"], "adjacentRegions" : [10, 11, 12, 14, 20, 21]},
+        {"id": 14, "border": false, "lostTribe" : false, "regionType": "WATER", "regionAttributes":  ["NONE"], "adjacentRegions" : [9, 10, 13, 20, 15]},
+        {"id": 15, "border": false, "lostTribe" : false, "regionType": "MOUNTAIN", "regionAttributes":  ["NONE"], "adjacentRegions" : [8, 9, 14, 20, 19, 16]},
+        {"id": 16, "border": false, "lostTribe" : false, "regionType": "FARMLAND", "regionAttributes":  ["NONE"], "adjacentRegions" : [8, 15, 17, 18, 19]},
+        {"id": 17, "border": true, "lostTribe" : true, "regionType": "FOREST", "regionAttributes":  ["MAGIC"], "adjacentRegions" : [7, 8, 16, 18]},
+        {"id": 18, "border": true, "lostTribe" : false, "regionType": "HILLS", "regionAttributes":  ["NONE"], "adjacentRegions" : [16, 17, 19]},
+        {"id": 19, "border": true, "lostTribe" : true, "regionType": "SWAMP", "regionAttributes":  ["CAVERN"], "adjacentRegions" : [15, 16, 18, 20]},
+        {"id": 20, "border": true, "lostTribe" : false, "regionType": "FOREST", "regionAttributes":  ["MINE"], "adjacentRegions" : [13, 14, 15, 19, 21]},
+        {"id": 21, "border": true, "lostTribe" : false, "regionType": "FARMLAND", "regionAttributes":  ["MAGIC"], "adjacentRegions" : [12, 13, 20]}
+    ]
+}

@@ -1,0 +1,14 @@
+﻿  SmallWorld.cpp
+c:\users\derek\source\repos\smallworld\smallworld\maploadertest.h(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\derek\source\repos\smallworld\smallworld\maploadertest.h(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\derek\source\repos\smallworld\smallworld\maploadertest.h(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\derek\source\repos\smallworld\smallworld\maploadertest.h(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\derek\source\repos\smallworld\smallworld\maploadertest.h(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\derek\source\repos\smallworld\smallworld\reinforcementsdietest.h(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\derek\source\repos\smallworld\smallworld\decktest.h(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\derek\source\repos\smallworld\smallworld\decktest.h(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\derek\source\repos\smallworld\smallworld\decktest.h(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\derek\source\repos\smallworld\smallworld\decktest.h(53): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+  Generating Code...
+  SmallWorld.vcxproj -> C:\Users\derek\source\repos\SmallWorld\Debug\SmallWorld.exe
